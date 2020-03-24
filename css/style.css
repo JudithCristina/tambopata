@@ -4629,3 +4629,63 @@ li.col-xs-12:before{
 .donation-form-outer button{
 	padding:12px 30px;	
 }
+
+
+/*Donación*/
+
+
+
+.main-header .header-upper .donate-web{
+	position:relative;
+	float:left;	
+}
+
+.main-header .header-upper .donate-web img{
+	max-width:100%;
+	height: 7rem;
+	width: auto;
+}
+
+.header-style-two .header-top .donate-web{
+	position:relative;
+	float:left;	
+}
+
+.header-style-two .header-top .donate-web img{
+	height: 9rem;
+
+	display:inline-block;	
+}
+
+.header-style-two .lower-part .donate-web{
+	position:relative;
+	float:left;
+	padding:10px 0px;
+}
+
+.fixed-header .lower-part .donate-web{
+	padding:0px !important;	
+}
+
+.header-style-two .lower-part .donate-web img{
+	display:inline-block;
+	max-width:100%;	
+}
+
+.donate-web{
+	display: block;
+  position: fixed;
+  right: 20px;
+  bottom: 40px;
+  line-height: 80px;
+  text-align: center;
+  z-index: 999;
+}
+
+.donate-mobile{
+	display: none;
+}
+/*scroll*/
+.scroll-to-top{
+	display: none!important;
+}
